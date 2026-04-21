@@ -1,2 +1,0 @@
-mkdir -p data/raw data/processed notebooks src/ingest src/preprocess src/metrics tests reports dashboard
-touch README.md
