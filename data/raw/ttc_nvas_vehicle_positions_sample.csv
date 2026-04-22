@@ -1,0 +1,4 @@
+vehicle_id,route_id,trip_id,latitude,longitude,timestamp_utc,current_status,source_note
+TTC_DEMO_1001,29,DEMO_TRIP_1,43.7001,-79.4163,2026-04-22T12:00:00Z,IN_TRANSIT_TO,fallback_sample
+TTC_DEMO_1002,36,DEMO_TRIP_2,43.7082,-79.5181,2026-04-22T12:01:00Z,STOPPED_AT,fallback_sample
+TTC_DEMO_1003,39,DEMO_TRIP_3,43.7738,-79.3355,2026-04-22T12:02:00Z,IN_TRANSIT_TO,fallback_sample
